@@ -1,0 +1,1 @@
+navigation guard - to ensure we render the protected resource under certain condtion.
